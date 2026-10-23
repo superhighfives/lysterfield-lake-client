@@ -1,5 +1,8 @@
 # Lysterfield Lake (App)
 
+> [!IMPORTANT]
+> **This repo has moved.** Lysterfield Lake now lives in one repo, [superhighfives/lysterfield-lake](https://github.com/superhighfives/lysterfield-lake), with the app, a rebuilt pipeline, and the models together. This repo is kept as it was, for reference.
+
 Client for the Lysterfield Lake project.
 
 🚨 **Please note:** 🚨 This was a passion project, provided purely as a resource for anyone looking to dive into aspects of how [Lysterfield Lake](https://lysterfieldlake.com/) was created. It is not a great representation of how to build a performant React app (or at least, I'm pretty sure it isn't).
